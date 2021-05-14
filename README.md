@@ -1,2 +1,3 @@
 # pyCrypt
-Python encryption/decryption using a random seed
+Python image encryption/decryption using a random seed
+(definitely not for he***i)
