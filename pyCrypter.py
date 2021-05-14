@@ -3,7 +3,6 @@ from time import sleep
 from PIL import Image
 import numpy as np
 import random
-import base64
 
 def encode(image):
 	random.seed(seed)
