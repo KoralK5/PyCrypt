@@ -1,2 +1,2 @@
 # pyCrypt
-Python image encryption/decryption using a random seed I made because of boredom and h****i storage
+Python image encryption/decryption using a random seed. (for h****i storage)
